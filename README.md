@@ -1,7 +1,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard ] <a name="about-project"></a>
+# 📖 [Leaderboard-API] <a name="about-project"></a>
 
 -The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
@@ -14,7 +14,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-1. Clone the Repo or Download the Zip file
+1. Clone the Repo or Download the Zip file or `https://github.com/Sammy3000/leaderboard`
 2. cd /leaderboard
 3. Open it with the live server
 
