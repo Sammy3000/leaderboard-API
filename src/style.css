@@ -51,11 +51,11 @@ body {
   border-radius: 5px;
 }
 
-.output-list li {
+.output-li {
   padding: 5px 5px;
 }
 
-.output-list li:nth-child(even) {
+.output-li:nth-child(even) {
   background-color: lightgray;
 }
 
