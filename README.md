@@ -27,8 +27,8 @@ In order to run this project you need:
 - VS code or any other equivalent tool.
 
  <!-- LIVE DEMO -->
- ## LIVE DEMO
- - See it live by clicking [Live Demo Link]()
+ ### LIVE DEMO
+ - See it live by clicking [Live Demo Link](https://sammy3000.github.io/leaderboard-API/dist/)
 
 ### Setup
 
