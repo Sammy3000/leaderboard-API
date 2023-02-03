@@ -1,28 +1,9 @@
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Leaderboard ] <a name="about-project"></a>
 
--Sending and receiving data from/to the Leaderboard API.
+-The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,6 +14,9 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+1. Clone the Repo or Download the Zip file
+2. cd /leaderboard
+3. Open it with the live server
 
 ### Prerequisites
 
@@ -41,14 +25,6 @@ In order to run this project you need:
 - Git/Github
 - HTML and CSS knowledge
 - VS code or any other equivalent tool.
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
  <!-- LIVE DEMO -->
 
@@ -73,6 +49,26 @@ Install this project with:
 - open the cloned directory with VSCode
 - Install live server extension for VSCode
 - Right click on the index.html and select open with live servers
+
+## Test
+
+For tracking linter errors locally you need to follow these steps:
+
+After cloning the project you need to run these commands
+
+`npm install` `This command will download all the dependancies of the project`
+
+For tracking linter errors in HTML files run:
+
+`npx hint .`
+
+For tracking linter errors in CSS or SASS files run:
+
+`npx stylelint "**/*.{css,scss}`
+
+And For tracking linter errors in JavaScript files run:
+
+`npx eslint .`
 
 ### Usage
 
@@ -102,13 +98,17 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project feel free to use it.
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank my bootcamp for granting me the knowledge to do this.
+- Hat tip to Microverse and all the staff.
+- Thanks to My coding Partners
+- Thanks to My Morning-session-group and Standup-team Partners and
+- Thanks to Code Reviewers
 
 ## 📝 License <a name="license"></a>
 
