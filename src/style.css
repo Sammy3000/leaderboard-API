@@ -58,6 +58,7 @@ body {
 .output-li:nth-child(even) {
   background-color: lightgray;
 }
+
 .output-li:nth-child(odd) {
   color: #fff;
 }
@@ -92,13 +93,16 @@ body {
   border-radius: 5px;
   box-shadow: 4px 4px 0 0 #0d1116;
 }
+
 button:hover {
   background: linear-gradient(to right, green, blue);
   color: antiquewhite;
 }
+
 h1 {
   font-size: 22px;
 }
+
 ::placeholder {
   color: green;
 }
