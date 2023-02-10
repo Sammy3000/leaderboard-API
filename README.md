@@ -66,7 +66,7 @@ For tracking linter errors in HTML files run:
 
 For tracking linter errors in CSS or SASS files run:
 
-`npx stylelint "**/*.{css,scss}`
+`npx stylelint "**/*.{css,scss}"`
 
 And For tracking linter errors in JavaScript files run:
 
