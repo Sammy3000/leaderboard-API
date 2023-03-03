@@ -1,9 +1,12 @@
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Leaderboard-API] <a name="about-project"></a>
 
 -The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+
+## Screenshot
+
+![](./src/images/leaderboard.PNG)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -14,6 +17,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
 1. Clone the Repo or Download the Zip file or `https://github.com/Sammy3000/leaderboard`
 2. cd /leaderboard
 3. Open it with the live server
@@ -27,8 +31,10 @@ In order to run this project you need:
 - VS code or any other equivalent tool.
 
  <!-- LIVE DEMO -->
- ### LIVE DEMO
- - See it live by clicking [Live Demo Link](https://sammy3000.github.io/leaderboard-API/dist/)
+
+### LIVE DEMO
+
+- See it live by clicking [Live Demo Link](https://sammy3000.github.io/leaderboard-API/dist/)
 
 ### Setup
 
