@@ -1,3 +1,23 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -7,9 +27,13 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML
-- CSS
-- Javascript
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+- ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
+
+### Key Features <a name="key-features"></a>
+
+- **API**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -52,7 +76,7 @@ Install this project with:
 - Install live server extension for VSCode
 - Right click on the index.html and select open with live servers
 
-## Test
+### Run tests
 
 For tracking linter errors locally you need to follow these steps:
 
@@ -71,12 +95,13 @@ For tracking linter errors in CSS or SASS files run:
 And For tracking linter errors in JavaScript files run:
 
 `npx eslint .`
-
-### Usage
+- ### Usage
 
 - Feel free to use this project.
+- After cloning run `npm install` then `npm start`
 
 <!-- AUTHORS -->
+## Authors
 
 ## 👥 Author <a name="author"></a>
 
