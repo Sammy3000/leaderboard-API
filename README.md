@@ -38,7 +38,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **API**
+
+- **Input scores**
+ 
+- **Displaying scores in the UI**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
